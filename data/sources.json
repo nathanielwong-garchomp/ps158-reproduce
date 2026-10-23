@@ -1,0 +1,70 @@
+{
+  "dollar_year": 2025,
+  "sources": [
+    {
+      "year": 1989,
+      "url": "https://www.federalreserve.gov/econres/files/scfp1989excel.zip",
+      "sha256": "bbcc1515abdd583f5639a2b4ec66771088d438e582a9975f245f448a354556d1"
+    },
+    {
+      "year": 1992,
+      "url": "https://www.federalreserve.gov/econres/files/scfp1992excel.zip",
+      "sha256": "82079b16bd50eead357c8c43618a371192eed8b314621a46bce0dfd2e5a61ce0"
+    },
+    {
+      "year": 1995,
+      "url": "https://www.federalreserve.gov/econres/files/scfp1995excel.zip",
+      "sha256": "823d7658e81e25ce55fa5e45148048460cef2aa2b3286ba18ff151c0794ea1d3"
+    },
+    {
+      "year": 1998,
+      "url": "https://www.federalreserve.gov/econres/files/scfp1998excel.zip",
+      "sha256": "9594928864a6be20b31339d0306cb5b910fa63dfcce6285e76cd6d85837c15f5"
+    },
+    {
+      "year": 2001,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2001excel.zip",
+      "sha256": "1c6f90d44e2d9e710d9c729a67d611b1ac3ffb1e89899f8cb3565cce58f230dd"
+    },
+    {
+      "year": 2004,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2004excel.zip",
+      "sha256": "5129f8f7694b9312ef6908dc9b2f931a9b9d22175d430a2d7fa2935ed880cb04"
+    },
+    {
+      "year": 2007,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2007excel.zip",
+      "sha256": "86f7629040b04e524cec70f1248d7a6ae4d2d96d56706e02462ba168fafe804c"
+    },
+    {
+      "year": 2010,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2010excel.zip",
+      "sha256": "441c1aa62524ef7f9be4bcc110c2be5357f9f19c0e08e6bf9e7771de2b8e9397"
+    },
+    {
+      "year": 2013,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2013excel.zip",
+      "sha256": "447d259174df780ccaa190024ce3cd1a7869b8f19cae674ba836e19761c39ac6"
+    },
+    {
+      "year": 2016,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2016excel.zip",
+      "sha256": "91cc1141578aad19925d698ae91c86fd395d74f5f9503af1326e45885184c628"
+    },
+    {
+      "year": 2019,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2019excel.zip",
+      "sha256": "f0df9c6212b188316a30253fa2e081131b6b60fa46f7529fbe02fa3db3b7d8b3"
+    },
+    {
+      "year": 2022,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2022excel.zip",
+      "sha256": "ad0df8bec513ff932d7421bc17a89ddfd16cbd9f678380f91d41c822d22be257"
+    },
+    {
+      "year": 2025,
+      "url": "https://www.federalreserve.gov/econres/files/scfp2025excel.zip",
+      "sha256": "7f1600daefd9caa6fef32e74977c4aa3e362172f3c5f91ba6d122c64c805e494"
+    }
+  ]
+}
